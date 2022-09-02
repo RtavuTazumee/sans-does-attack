@@ -1,0 +1,12 @@
+0,Sound,mus_zz_megalovania,0,,,,,
+0,SansAnimation,Idle,,,,
+0,SansTorso,Default,,
+0,SansHead,Default,,
+0,SansSweat,0,,,
+0,HeartMode,0,,,,
+0,HeartMaxFallSpeed,500,,,
+0,HeartTeleport,320,304,,,,,,
+0,CombatZoneResize,121,186,526,391,
+0.1,SansText,ready?,,
+
+0,EndAttack,,,
